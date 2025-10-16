@@ -26,7 +26,7 @@ export default function Register() {
                 />
             </View>
 
-            <TouchableOpacity className="bg-primary py-3 rounded-xl h-14">
+            <TouchableOpacity className="bg-primary py-3 rounded-xl h-14 mt-4">
                 <Text className="text-white text-center font-semibold text-base">
                     ارسال
                 </Text>
